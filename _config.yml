@@ -13,19 +13,18 @@
 # you will see them accessed via the {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Deepak Chand
-email: chanddeepak503@gmail.com
+title: Jeevan Shrestha
+email: shresthajeevan777@gmail.com
 description:  "Robotics and Embedded Electronics Engineer"
-url: "https://deepchand41.github.io"
-twitter_username: IamParadox_16
-github_username: deepchand41
-# stackoverflow_username: madan-baduwal
-linkiden_username: DeepakChand
+url: "https://jeevan-git.github.io"
+#twitter_username: IamParadox_16
+github_username: jeevan-git
+linkiden_username: jeevan-shrestha
 minimal_mistakes_skin: "default"
 search: true
 
-twitter:
-  username: "IamParadox_16"
+#twitter:
+#  username: "IamParadox_16"
 
 # Build settings
 markdown: kramdown
