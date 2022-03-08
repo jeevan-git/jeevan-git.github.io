@@ -145,7 +145,7 @@ comments:
     issue_term: "pathname"
 repository: "jeevan-git/jeevan-git.github.io"
 
-google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
+#google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
 
 social:
   type:  Person
@@ -158,7 +158,7 @@ social:
 #    - "https://stackoverflow.com/users/13783264"
 
 google:
-  search_engine_id: f40dfec50840f5334
+  search_engine_id: 8f72b932abdeba82d
   
 analytics:
   provider: "google-gtag"
