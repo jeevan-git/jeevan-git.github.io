@@ -15,7 +15,7 @@ I'm an engineer and researcher.
 who break things at day and build at night.
 
 **What I do?**  
-I do research in the field of AI, Robotics and apply it to solve the real life problems. 
+I do research in the field of Electrcal, Electronics, Robotics and apply it to solve the real life problems. 
 
 **Interest Areas**  
 I'm interested in the research field related to robotics.
