@@ -17,14 +17,14 @@ title: Jeevan Shrestha
 email: shresthajeevan777@gmail.com
 description:  "Robotics and Embedded Electronics Engineer"
 url: "https://jeevan-git.github.io"
-#twitter_username: IamParadox_16
+twitter_username: kaurska07
 github_username: jeevan-git
 linkiden_username: jeevan-shrestha
 minimal_mistakes_skin: "default"
 search: true
 
-#twitter:
-#  username: "IamParadox_16"
+twitter:
+  username: "kaurska07"
 
 # Build settings
 markdown: kramdown
@@ -97,10 +97,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/IamParadox_16"
+      url: "https://twitter.com/kaurska07"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/deepchand41"
+      url: "https://github.com/jeevan-git"
 
 defaults:
   # _posts
@@ -143,18 +143,18 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-repository: "deepchand41/deepchand41.github.io"
+repository: "jeevan-git/jeevan-git.github.io"
 
 google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
 
 social:
   type:  Person
-  name:  Deepak Chand
+  name:  Jeevan Shrestha
   links:
-    - "https://twitter.com/IamParadox_16"
-    - "https://github.com/deepchand41"
-    - "https://www.linkedin.com/in/deepak-chand-4b7a95152/"
-    - "https://www.youtube.com/channel/UCbeJuqUTRacY2s5xsiZJaLg"
+    - "https://twitter.com/kaurska07"
+    - "https://github.com/jeevan-git"
+    - "https://www.linkedin.com/in/jeevan-shrestha-832413161/"
+    - "https://www.youtube.com/channel/UCpYuXpvJxp3C5-Fdnrzkqjg"
 #    - "https://stackoverflow.com/users/13783264"
 
 google:
