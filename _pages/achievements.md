@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /achievements/
 author_profile: true
 title: "Achievements"
 ---
