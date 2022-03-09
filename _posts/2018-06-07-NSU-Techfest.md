@@ -22,7 +22,7 @@ NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased the
 <iframe width="480" height="360" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
+NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased their products. There different business man came to see the different project and we presented a excavator designed manual robot which could be used wirelessly to control its drive as well as other features.
 
 <div style="text-align: center">
 <iframe width="480" height="360" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
