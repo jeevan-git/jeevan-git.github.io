@@ -5,8 +5,8 @@ main:
     url: /postcollections/
   - title: "Projects"
     url: /projects/
-  - title: "Publications"
-    url: /publications/
+  - title: "Achievements"
+    url: /achievements/
   - title: "About"
     url: /about/
   
