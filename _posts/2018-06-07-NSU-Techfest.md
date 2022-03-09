@@ -22,6 +22,8 @@ NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased the
 <iframe width="480" height="360" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<br>
+
 <div style="text-align: center">
 <iframe width="480" height="360" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
