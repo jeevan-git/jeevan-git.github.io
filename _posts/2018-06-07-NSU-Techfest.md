@@ -8,14 +8,19 @@ permalink : /NUS_Techfest/
 categories: [Projects]
 excerpt : Project Demo at NSU TechFest June 2018. 
 header :
-    og_image : "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/ABU-ROBOCON.jpg"
-    teaser: "https://raw.githubusercontent.com/deepchand41/deepchand41.github.io/main/images/ABU-ROBOCON.jpg"
+    og_image : "https://github.com/jeevan-git/jeevan-git.github.io/images/NSU_Techfest.png"
+    teaser: "https://github.com/jeevan-git/jeevan-git.github.io/images/NSU_Techfest.png"
+
 comments : true
 sidebar:
     nav: sidebar-sample
 ---
 
-ABU ROBOCON 2018 theme based international robotics competitions where students from the 20 different countries participate with the robots the build. The theme of ROBOCON 2018 was to make two robots one manual and one automatics, and the task was to throw the shuttlecock through rings at a certain height. Our team representing NEPAL was able to win the "BEST SHUTTLECOCK AWARD" for the shuttlecock rack transfer mechanism. 
+NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased their products. There different business man came to see the different project and we presented a excavator designed manual robot which could be used wirelessly to control its drive as well as other features.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/2p6DM4dJpXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
