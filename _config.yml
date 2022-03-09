@@ -68,7 +68,7 @@ plugins:
 
 author:
   name   : "Jeevan Shrestha"
-  avatar : "/images/Jeevan_avatar3.jpg"
+  avatar : "/images/Jeevan_avatar4.jpg"
   bio    : "Robotics and Embedded Electronics Engineer"
   links:
     - label: "Twitter"
@@ -155,7 +155,6 @@ social:
     - "https://github.com/jeevan-git"
     - "https://www.linkedin.com/in/jeevan-shrestha-832413161/"
     - "https://www.youtube.com/channel/UCpYuXpvJxp3C5-Fdnrzkqjg"
-#    - "https://stackoverflow.com/users/13783264"
 
 google:
   search_engine_id: 8f72b932abdeba82d
