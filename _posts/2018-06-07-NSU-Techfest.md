@@ -18,10 +18,11 @@ sidebar:
 
 NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased their products. There different business man came to see the different project and we presented a excavator designed manual robot which could be used wirelessly to control its drive as well as other features.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: left">
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="700" height="500" src="https://www.youtube.com/embed/2p6DM4dJpXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="text-align: right">
+<iframe width="480" height="360" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <br>
