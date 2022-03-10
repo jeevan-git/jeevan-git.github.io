@@ -32,9 +32,13 @@ Testing the robot before the event
 </div>
 
 
-<p align="center">
-  <img width="460" height="300" src="images/NSU_TechFest/02.jpg =100*20">
-</p>
+![alt text](images\01 NSU Techfest 2018 06 07\01.jpg)
+#[My image](jeevan-git.github.com/jeevan-git/images/01.jpg)
 
+![](2018-06-07-NSU-Techfest.md/images/NSU_TechFest/01.jpg =100*20)
+
+<p align="center">
+  <img width="460" height="300" src="/images/NSU_TechFest/01.jpg">
+</p>
 
 <br>
