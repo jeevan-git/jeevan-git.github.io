@@ -34,7 +34,10 @@ Testing the robot before the event
 
 ![alt text](images\01 NSU Techfest 2018 06 07\01.jpg)
 #[My image](jeevan-git.github.com/jeevan-git/images/01.jpg)
-![GitHub Logo](/images/NSU_TechFest/01.jpg)
+![](/images/NSU_TechFest/01.jpg)
 
+<p align="center">
+  <img width="460" height="300" src="jeevan-git.github.com/jeevan-git/images/01.jpg">
+</p>
 
 <br>
