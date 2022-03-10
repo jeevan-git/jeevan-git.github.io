@@ -30,4 +30,9 @@ Explaining the entrepreneurs about the project
 <div style="text-align: center">
 Testing the robot before the event
 </div>
+
+
+![alt text](http://url/to/img.png)
+
+images\01 NSU Techfest 2018 06 07\01.jpg
 <br>
