@@ -29,20 +29,20 @@ Explaining the entrepreneurs about the project
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="text-align: center">
+<div style="text-align: left">
 Testing the robot before the event
-
-
 </div>
 
-
-![alt text](images\01 NSU Techfest 2018 06 07\01.jpg)
-#[My image](jeevan-git.github.com/jeevan-git/images/01.jpg)
-
-
+<!-- <p align="left">
+  <img width="230" height="150" src="/images/NSU_TechFest/01.jpg">
+</p> -->
 
 <p align="center">
-  <img width="230" height="150" src="/images/NSU_TechFest/01.jpg">
+  <img width="230" height="150" src="/images/NSU_TechFest/02.jpg">
 </p>
+
+<!-- <p align="right">
+  <img width="230" height="150" src="/images/NSU_TechFest/03.jpg">
+</p> -->
 
 <br>
