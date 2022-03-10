@@ -31,8 +31,10 @@ Explaining the entrepreneurs about the project
 Testing the robot before the event
 </div>
 
-![](2018-06-07-NSU-Techfest.md/images/NSU_TechFest/01.jpg =100*20)
 
+<p align="center">
+  <img width="460" height="300" src="2018-06-07-NSU-Techfest.md/images/NSU_TechFest/02.jpg =100*20">
+</p>
 
 
 <br>
