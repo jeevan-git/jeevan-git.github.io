@@ -32,7 +32,7 @@ Testing the robot before the event
 </div>
 
 
-![alt text](http://url/to/img.png)
+![alt text](images\01 NSU Techfest 2018 06 07\01.jpg)
 
-images\01 NSU Techfest 2018 06 07\01.jpg
+
 <br>
