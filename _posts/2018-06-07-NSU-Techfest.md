@@ -23,12 +23,16 @@ NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased the
 
 <div style="text-align: center">
 Explaining the entrepreneurs about the project
+
+
 </div>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div style="text-align: center">
 Testing the robot before the event
+
+
 </div>
 
 
@@ -37,7 +41,7 @@ Testing the robot before the event
 
 
 
-<p align="left">
+<p align="center">
   <img width="230" height="150" src="/images/NSU_TechFest/01.jpg">
 </p>
 
