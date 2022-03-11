@@ -8,8 +8,8 @@ permalink : /NUS_Techfest/
 categories: [Projects]
 excerpt : Project Demo at NSU TechFest June 2018. 
 header :
-    og_image : "/images/NSU_Techfest/cover.png"
-    teaser: "/images/NSU_Techfest/cover.png"
+    og_image : "/images/NSU_TechFest/cover.png"
+    teaser: "/images/NSU_TechFest/cover.png"
 
 comments : true
 sidebar:
