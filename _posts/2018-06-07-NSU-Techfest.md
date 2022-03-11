@@ -38,7 +38,7 @@ Testing the robot before the event
 </p> -->
 
 <p align="center">
-  <img width="230" height="150" src="/images/NSU_TechFest/02.jpg">
+  <img width="1600" height="1200" src="/images/NSU_TechFest/07.jpg">
 </p>
 
 <!-- <p align="right">
