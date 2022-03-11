@@ -31,19 +31,13 @@ Explaining the entrepreneurs about the project
 Testing the robot before the event
 </div>
 
-<!-- <p align="left">
-  <img width="230" height="150" src="/images/NSU_TechFest/01.jpg">
-</p> -->
-
 <p align="center">
-  <img width="400" height="300" src="/images/NSU_TechFest/07.png">
+  <img width="1200" height="900" src="/images/NSU_TechFest/08.png">
+  <img width="1200" height="900" src="/images/NSU_TechFest/09.jpg">
   <div style="text-align: center">
   Images
   </div>
 </p>
 
-<!-- <p align="right">
-  <img width="230" height="150" src="/images/NSU_TechFest/03.jpg">
-</p> -->
 
 <br>
