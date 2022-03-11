@@ -68,7 +68,7 @@ plugins:
 
 author:
   name   : "Jeevan Shrestha"
-  avatar : "/images/Jeevan_avatar4.jpg"
+  avatar : "/images/avatar.jpg"
   bio    : "Robotics and Embedded Electronics Engineer"
   links:
     - label: "Twitter"
