@@ -6,7 +6,7 @@ author_profile: true
 read_time: true
 permalink : /srijana_advance_college/
 categories: [Projects]
-excerpt : Project Demo at NSU TechFest June 2018. 
+excerpt : Automatic and Manual Akahada at Advance College. 
 header :
     og_image : "/images/Srijana_Advance_College/cover.png"
     teaser: "/images/Srijana_Advance_College/cover.png"
