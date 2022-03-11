@@ -8,8 +8,8 @@ permalink : /NUS_Techfest/
 categories: [Projects]
 excerpt : Project Demo at NSU TechFest June 2018. 
 header :
-    og_image : "https://github.com/jeevan-git/jeevan-git.github.io/images/NSU_Techfest.png"
-    teaser: "https://github.com/jeevan-git/jeevan-git.github.io/images/NSU_Techfest.png"
+    og_image : "/images/NSU_Techfest.png"
+    teaser: "/images/NSU_Techfest.png"
 
 comments : true
 sidebar:
