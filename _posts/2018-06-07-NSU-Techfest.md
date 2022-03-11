@@ -29,7 +29,7 @@ Explaining the entrepreneurs about the project
 <div style="text-align: center">
 Testing the robot before the event
 </div>
-
+<br> <br>
 <p align="center">
   <img width="1200" height="900" src="/images/NSU_TechFest/08.png">
   <br>
