@@ -22,15 +22,15 @@ sidebar:
 <iframe width="853" height="480" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player"         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
 <div style="text-align: center">
   Explaining the entrepreneurs about the project
-  &nbsp;
 </div>
 
+<p> &nbsp; </p>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
   Testing the robot before the event
 </div>
-&nbsp;
+<p> &nbsp; </p>
 
 <p align="center">
   <img width="1200" height="900" src="/images/NSU_TechFest/08.png">
