@@ -8,8 +8,8 @@ permalink : /srijana_advance_college/
 categories: [Projects]
 excerpt : Project Demo at NSU TechFest June 2018. 
 header :
-    og_image : "/images/NSU_Techfest.png"
-    teaser: "/images/NSU_Techfest.png"
+    og_image : "/images/Srijana_Advance_College/cover.png"
+    teaser: "/images/Srijana_Advance_College/cover.png"
 
 comments : true
 sidebar:
