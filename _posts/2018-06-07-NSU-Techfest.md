@@ -31,10 +31,11 @@ sidebar:
 <p> &nbsp; </p>
 
 <p align="center">
-  <img width="1200" height="900" src="/images/NSU_TechFest/08.png">
-  <img width="1200" height="900" src="/images/NSU_TechFest/09.png">
-  <img width="1200" height="900" src="/images/NSU_TechFest/10.png">
-  <img width="1200" height="900" src="/images/NSU_TechFest/11.png">
+  <img width="1200" height="900" src="/images/NSU_TechFest/01.png">
+  <img width="1200" height="900" src="/images/NSU_TechFest/02.jpg">
+  <img width="1200" height="900" src="/images/NSU_TechFest/03.jpg">
+  <img width="1200" height="900" src="/images/NSU_TechFest/04.png">
+  <img width="1200" height="900" src="/images/NSU_TechFest/05.jpg">
   <div style="text-align: center">
   Images
   </div>
