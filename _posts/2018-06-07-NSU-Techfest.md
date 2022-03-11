@@ -29,7 +29,7 @@ Explaining the entrepreneurs about the project
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="text-align: left">
+<div style="text-align: center">
 Testing the robot before the event
 </div>
 
@@ -38,7 +38,10 @@ Testing the robot before the event
 </p> -->
 
 <p align="center">
-  <img width="1600" height="1200" src="/images/NSU_TechFest/07.jpg">
+  <img width="800" height="600" src="/images/NSU_TechFest/07.jpg">
+  <div style="text-align: center">
+  Images
+  </div>
 </p>
 
 <!-- <p align="right">
