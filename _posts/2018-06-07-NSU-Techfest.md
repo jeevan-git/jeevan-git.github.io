@@ -38,6 +38,8 @@ sidebar:
   <img width="1200" height="900" src="/images/NSU_TechFest/09.png">
   &nbsp;
   <img width="1200" height="900" src="/images/NSU_TechFest/10.png">
+  &nbsp;
+  <img width="1200" height="900" src="/images/NSU_TechFest/11.png">
   <div style="text-align: center">
   Images
   </div>
