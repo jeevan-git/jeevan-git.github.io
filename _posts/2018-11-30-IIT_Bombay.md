@@ -39,12 +39,12 @@ sidebar:
 <p> &nbsp; </p>
 
 <p align="center">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/01.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/02.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/03.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/04.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/05.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/06.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/01.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/02.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/03.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/04.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/05.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/06.png">
   <div style="text-align: center">
   Images
   </div>
