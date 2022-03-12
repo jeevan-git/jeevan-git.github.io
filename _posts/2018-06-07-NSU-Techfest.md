@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 read_time: true
 permalink : /NUS_Techfest/
-categories: [Achievements]
+# categories: [Achievements]
+categories: [Projects]
+
 excerpt : Project Demo at NSU TechFest June 2018. 
 header :
     og_image : "/images/NSU_TechFest/cover.png"
