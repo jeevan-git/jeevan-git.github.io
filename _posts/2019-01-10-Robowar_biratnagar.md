@@ -18,7 +18,7 @@ sidebar:
     nav: sidebar-sample
 ---
 <div style="text-align: left">
-  Automatic and Manual Akahada at Advance College.
+  Manual Robowar between two opponent robots
 </div>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/m3s1BKllw3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
