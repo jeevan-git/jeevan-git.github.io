@@ -44,6 +44,8 @@ sidebar:
   <img width="1200" height="900" src="/images/Robowar_Biratnagar/03.png">
   <img width="1200" height="900" src="/images/Robowar_Biratnagar/04.png">
   <img width="1200" height="900" src="/images/Robowar_Biratnagar/05.png">
+  <img width="1200" height="900" src="/images/Robowar_Biratnagar/06.png">
+  <img width="1200" height="900" src="/images/Robowar_Biratnagar/07.png">
   <div style="text-align: center">
   Images
   </div>
