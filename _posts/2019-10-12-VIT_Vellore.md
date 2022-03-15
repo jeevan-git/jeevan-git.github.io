@@ -23,7 +23,7 @@ sidebar:
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/A9Oufnr108o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Electronics Test before building robot
+  Electronics test before building robot
 </div>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/cN4gkLwJh60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
