@@ -45,6 +45,7 @@ sidebar:
   <img width="1200" height="900" src="/images/IIT_Bombay/04.png">
   <img width="1200" height="900" src="/images/IIT_Bombay/05.png">
   <img width="1200" height="900" src="/images/IIT_Bombay/06.png">
+  <img width="1200" height="900" src="/images/IIT_Bombay/07.png">
   <div style="text-align: center">
   Images
   </div>
