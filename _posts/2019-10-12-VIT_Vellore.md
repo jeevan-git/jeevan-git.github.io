@@ -41,7 +41,7 @@ sidebar:
 <p align="center">
   <img width="1200" height="900" src="/images/VIT_Vellore/01.png">
   <img width="1200" height="900" src="/images/VIT_Vellore/02.png">
-  <img width="1200" height="900" src="/images/VIT_Vellore/03.jpg">
+  <img width="1200" height="900" src="/images/VIT_Vellore/03.png">
   <img width="1200" height="900" src="/images/VIT_Vellore/04.png">
   <img width="1200" height="900" src="/images/VIT_Vellore/05.png">
   <div style="text-align: center">
