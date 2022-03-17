@@ -21,18 +21,20 @@ sidebar:
   Automated Bike Wash System
 </div>
 
-<!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player"         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+<iframe width="1904" height="753" src="https://www.youtube.com/embed/lQ7vmghqRJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Explaining the entrepreneurs about the project
+  Electronics testing and debugging
 </div>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/psH8TkNUlHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1904" height="753" src="https://www.youtube.com/embed/OxsJP08gzTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Testing the robot before the event
+  Mechanism test
 </div>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnsutechfest%2Fphotos%2Fa.1289380741192979%2F1431609933636725%2F%3Ftype%3D3&show_text=true&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
-
+<iframe width="1904" height="753" src="https://www.youtube.com/embed/3C7NsqTvdyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center">
+  Final test before launch
+</div>
 <p> &nbsp; </p>
 
 <p align="center">
