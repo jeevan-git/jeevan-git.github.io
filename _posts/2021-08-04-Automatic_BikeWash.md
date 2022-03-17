@@ -42,6 +42,6 @@ sidebar:
   <img width="1200" height="900" src="/images/Automated_BikeWash/04.png">
   <img width="1200" height="900" src="/images/Automated_BikeWash/05.png">
   <div style="text-align: center">
-  Images
+  Imagess
   </div>
 </p>
