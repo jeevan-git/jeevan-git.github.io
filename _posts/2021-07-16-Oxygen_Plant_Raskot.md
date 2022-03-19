@@ -31,8 +31,6 @@ sidebar:
   Returning home after completion of oxygen plant
 </div>
 
-<iframe width="640" height="360" src="https://risingnepaldaily.com/nation/mini-oxygen-plant-set-up-at-raskot-hospital" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [News Report from risingnepaldaily](https://risingnepaldaily.com/nation/mini-oxygen-plant-set-up-at-raskot-hospital)
 <div style="text-align: center">
   We were on news risingnepaldaily
@@ -50,7 +48,6 @@ sidebar:
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/02.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/03.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/04.png">
-  <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/05.png">
   <div style="text-align: center">
   Images
   </div>
