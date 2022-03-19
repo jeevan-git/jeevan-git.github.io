@@ -18,7 +18,7 @@ sidebar:
     nav: sidebar-sample
 ---
 <div style="text-align: left">
-  NSU TechFest was an exihibion at Hotel Annapurna where entrepreneur shocased their products. There different business man came to see the different project and we presented a excavator designed manual robot which could be used wirelessly to control its drive as well as other features.
+  A mini-oxygen plant has been installed at the Raskot hospital in the Kalikot district of Raskot Municipality. The mini-oxygen plant was installed at no cost by the National Innovation Centre to help COVID-19 patients. "Sixty liters of oxygen is produced per minute from the mini-oxygen plant, and in case of emergency line cutoff, oxygen cylinders have been installed to provide continuous oxygen to COVID patients.
 </div>
 
 <!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/Z30jyOVZKOc" title="YouTube video player"         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
