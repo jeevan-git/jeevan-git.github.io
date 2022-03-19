@@ -38,7 +38,7 @@ sidebar:
 <p align="center">
   <img width="1200" height="900" src="/images/NSU_TechFest/01.png">
   <img width="1200" height="900" src="/images/NSU_TechFest/02.png">
-  <img width="1200" height="900" src="/images/NSU_TechFest/03.jpg">
+  <img width="1200" height="900" src="/images/NSU_TechFest/03.png">
   <img width="1200" height="900" src="/images/NSU_TechFest/04.png">
   <img width="1200" height="900" src="/images/NSU_TechFest/05.png">
   <div style="text-align: center">

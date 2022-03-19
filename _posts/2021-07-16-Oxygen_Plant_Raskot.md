@@ -41,7 +41,7 @@ https://nepalnews.com/s/nation/mini-oxygen-plant-installed-at-raskot-hospital-in
 <p align="center">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/01.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/02.png">
-  <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/03.jpg">
+  <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/03.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/04.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/05.png">
   <div style="text-align: center">
