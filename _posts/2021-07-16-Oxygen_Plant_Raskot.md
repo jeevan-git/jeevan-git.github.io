@@ -31,10 +31,15 @@ sidebar:
   Returning home after completion of oxygen plant
 </div>
 
-New Link 1
-[Link text Here](https://risingnepaldaily.com/nation/mini-oxygen-plant-set-up-at-raskot-hospital)
+[News Report One](https://risingnepaldaily.com/nation/mini-oxygen-plant-set-up-at-raskot-hospital)
+<div style="text-align: center">
+  News Report for Oxygen Plant
+</div>
 
-https://nepalnews.com/s/nation/mini-oxygen-plant-installed-at-raskot-hospital-in-kalikot
+[News Report One](https://nepalnews.com/s/nation/mini-oxygen-plant-installed-at-raskot-hospital-in-kalikot)
+<div style="text-align: center">
+  News Report for Oxygen Plant
+</div>
 
 <p> &nbsp; </p>
 
