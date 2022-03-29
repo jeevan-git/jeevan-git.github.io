@@ -21,29 +21,24 @@ sidebar:
   Robosoccer at KEC Dhapakhel
 </div>
 
-<iframe width="668" height="376" src="https://www.youtube.com/embed/bOu15bP6rak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TICHo1IDbUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Drive Motor Issue after first competition
+  Robosoccer drive test before the competition
 </div>
 
-<iframe width="469" height="833" src="https://www.youtube.com/embed/UJR2DQ9sBzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/oo7zeX0P5Ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Testing automatic line follower and maze solver robot
+  Team Gabriel vs The Robonauts || Semifinal ||
 </div>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/hZwo_z8ywi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cKMkj6EZFK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Second test for automatic line follower and maze solver robot
+  Team Gabriel vs KEC || Final 1st Half ||
 </div>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/oN87unmTOFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/4cMXgJPq9oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="text-align: center">
-  Final Test for automatic line follower and maze solver robot
-</div>
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dfUlC7KeQ_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div style="text-align: center">
-  Repair and maintanance for the robots are competition
+  Team Gabriel vs KEC || Final 2nd Half ||
 </div>
 
 <p> &nbsp; </p>
