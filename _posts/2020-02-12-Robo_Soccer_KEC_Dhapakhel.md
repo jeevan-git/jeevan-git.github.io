@@ -51,6 +51,9 @@ sidebar:
 <p align="center">
   <img width="1200" height="900" src="/images/Robosoccer_KEC_Dhapakhel/01.png">
   <img width="1200" height="900" src="/images/Robosoccer_KEC_Dhapakhel/02.png">
+  <img width="1200" height="900" src="/images/Robosoccer_KEC_Dhapakhel/03.png">
+  <img width="1200" height="900" src="/images/Robosoccer_KEC_Dhapakhel/04.png">
+  <img width="1200" height="900" src="/images/Robosoccer_KEC_Dhapakhel/05.png">
   <div style="text-align: center">
   Images
   </div>
