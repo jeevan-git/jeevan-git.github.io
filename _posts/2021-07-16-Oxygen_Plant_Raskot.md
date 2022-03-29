@@ -44,6 +44,7 @@ sidebar:
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/02.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/03.png">
   <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/04.png">
+  <img width="1200" height="900" src="/images/Oxygen_Plant_Raskot/05.png">
   <div style="text-align: center">
   Images
   </div>
