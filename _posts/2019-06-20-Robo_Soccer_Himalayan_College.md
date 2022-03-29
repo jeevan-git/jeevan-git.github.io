@@ -49,8 +49,8 @@ sidebar:
 <p> &nbsp; </p>
 
 <p align="center">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/01.png">
-  <img width="1200" height="900" src="/images/Srijana_Advance_College/02.png">
+  <img width="1200" height="900" src="/images/Robosoccer_Himalayan_College/01.png">
+  <img width="1200" height="900" src="/images/Robosoccer_Himalayan_College/02.png">
   <div style="text-align: center">
   Images
   </div>
