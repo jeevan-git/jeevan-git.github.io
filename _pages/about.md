@@ -6,7 +6,7 @@ excerpt: Learn about me, who iam and what I do.
 ---
 **Resume**
 
-📃 You can find my [Resume](https://drive.google.com/file/d/11SjvQUW4zKodwDmy3KtbJFN3TvwZXnlp/view?usp=sharing) here.
+📃 You can find my [Resume](https://drive.google.com/file/d/1J3r7U8uM0oCUeiTDLiVdFOz-QrQd5Gfy/view?usp=share_link) here.
 
 
 **Who I am?**  
